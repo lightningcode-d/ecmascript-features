@@ -1,3 +1,3 @@
-import hello from "./module.mjs";
+import hello from "./modules/module.mjs";
 
-hello()
+hello();
