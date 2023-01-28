@@ -1,4 +1,4 @@
-    ### Features ⚙️
+### Features ⚙️
 ------------
 ##### - This is a guide where you can find the change history from ecmascript versions 6 to version 13, the file names are the changes that were made.
 ------------
@@ -60,9 +60,6 @@
 
 ![](https://images.pexels.com/photos/11035481/pexels-photo-11035481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-**Table of Contents**
 
-[TOCM]
 
-[TOC]
 
